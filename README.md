@@ -14,6 +14,6 @@
     9. Making Party?.
 
 # Goal
-    1. Opened Code?
-    2. Easy? Modding.
+     1. Opened Code?
+     2. Easy? Modding.
     
