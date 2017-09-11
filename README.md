@@ -9,7 +9,7 @@
     4. Making Guild.
     5. Making City ( Orario ).
     6. Making Gods.
-    7. Making Events. (Random, Stroy?)
+    7. Making Events. (Random, Story?)
     8. Making Economy?.
     9. Making Party?.
 
