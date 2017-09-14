@@ -18,9 +18,6 @@
      2. Easy? Modding.
     
 # Code Example?
-
-# character -> integer.
-
     integer_id = {
         이름 = { type = string option = make_from_file from = { "이름.txt" } }
         성별 = { type = string option = make from = { "남자" "여자" } }
